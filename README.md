@@ -10,3 +10,5 @@ AtmOSH uses any MQTT message broker such as Mosquitto or EMQ or any number of ot
 AtmOSH has it's own Web based solution or can be integrated into many SmartHome solutions such as HomeGenie or Domoticz or OpenHAB.
 
 Website at https://www.atmosh.org
+
+If you are interested in joining this project, send an email to jsloan@celldara.com
